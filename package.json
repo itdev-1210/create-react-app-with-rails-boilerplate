@@ -1,0 +1,18 @@
+{
+  "name": "create-react-app-with-rails-login",
+  "version": "1.0.0",
+  "description": "## Key Features",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "build": "yarn --cwd client build",
+    "install": "yarn --cwd client install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
